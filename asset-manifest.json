@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kamil1047.github.io/expense-tracker-front/static/css/main.e6525c05.css",
+    "main.js": "/kamil1047.github.io/expense-tracker-front/static/js/main.85de9589.js",
+    "index.html": "/kamil1047.github.io/expense-tracker-front/index.html",
+    "main.e6525c05.css.map": "/kamil1047.github.io/expense-tracker-front/static/css/main.e6525c05.css.map",
+    "main.85de9589.js.map": "/kamil1047.github.io/expense-tracker-front/static/js/main.85de9589.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6525c05.css",
+    "static/js/main.85de9589.js"
+  ]
+}
